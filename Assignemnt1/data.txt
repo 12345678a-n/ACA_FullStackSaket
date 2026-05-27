@@ -1,0 +1,4 @@
+Pichu 10 20 30
+Pikachu 10 50 60
+Raichu 90 70 10
+Alolan_Raichu 100 100 100 100
